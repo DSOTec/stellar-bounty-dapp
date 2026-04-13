@@ -183,7 +183,7 @@ Smart contract code is located in `/contracts`.
 
 ## 👤 Maintainer
 
-**Samuel Oluwadamilola Daniel** Frontend Engineer | Open Source Enthusiast
+**Samuel Daniel** Frontend Engineer | Open Source Enthusiast
 
 - GitHub: [DSOTec](https://github.com/DSOTec)
 - LinkedIn: [dsotec](https://www.linkedin.com/in/dsotec)
